@@ -1,12 +1,12 @@
 <h1>Cadastro de pessoas</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de Versionamento.</p>
-<p> tretrtrstrs</p>
+<p>Sistema que cadastra usuarios
+os usuario usa para cadastra nome e ideia</p>
+<p> </p>
 
 ## �� Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"&gt;
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"&gt;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"&gt;
-</div>
+Curso: Desenvolvimneto de software
+Alunos: Joelson dos Santos,Vinnicius Souza
+<img src="https://github.com/user-attachments/assets/92f0c7cc-3b4b-41af-ab90-d390ce32c23b"/>
